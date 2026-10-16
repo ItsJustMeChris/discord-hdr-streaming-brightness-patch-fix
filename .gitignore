@@ -1,0 +1,6 @@
+# backups of Discord's own discord_voice.node: never commit these
+backups/
+*.hdrfix-tmp
+
+__pycache__/
+*.py[cod]
